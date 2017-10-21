@@ -1,24 +1,24 @@
-# README
+# Reach Out
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Purpose
 
-Things you may want to cover:
+During and after a disaster, letting your family and friends know that you are safe and well can bring your loved ones great peace of mind. Reach Out is an SMS-based [dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch) designed to help make that communication easier in case of an emergency.
 
-* Ruby version
+## Usage
 
-* System dependencies
+Register by texting "START" to [Shortcode]. Reach Out will check-in on you every [X] hours - if you don't respond with "OK" within [Y] minutes, Reach Out will notify your emergency contacts that you have stopped responding. To unsubscribe from check-ins, text "STOP".
 
-* Configuration
+To add an emergency contact, text "ADD [Phone number]". To remove an emergency contact, text "REMOVE [Phone number]".
 
-* Database creation
+To see a list of available commands, text "HELP".
 
-* Database initialization
+## Team
 
-* How to run the test suite
+* [Josef Diago](https://github.com/jdiago) - Technical lead - Rails, Twilio, and dev-ops
+* [Bruno Cunha](https://github.com/bruncun) - Project coordinator - UI/UX design and front-end
 
-* Services (job queues, cache servers, search engines, etc.)
+This project needs a stakeholder representative. Communication is handled through Github.
 
-* Deployment instructions
+## Getting started
 
-* ...
+Todo
