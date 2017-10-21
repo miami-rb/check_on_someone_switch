@@ -14,5 +14,6 @@ class PingJob < ApplicationJob
         body: "Got a sec to check-in? Reply OK"
       )
     end
+    Ping.create
   end
 end
