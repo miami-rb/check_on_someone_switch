@@ -14,5 +14,6 @@ class PingJob < ApplicationJob
         body: "PLS RESPOND"
       )
     end
+    Ping.create
   end
 end
