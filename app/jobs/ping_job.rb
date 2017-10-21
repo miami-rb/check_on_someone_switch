@@ -15,5 +15,6 @@ class PingJob < ApplicationJob
       )
     end
     Ping.create
+    VerifyPongJob.perform_later
   end
 end
