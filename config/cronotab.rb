@@ -14,4 +14,4 @@
 # Crono.perform(TestJob).every 2.days, at: '15:30'
 #
 
-Crono.perform(TestJob).every 30.seconds
+Crono.perform(PingJob).every 30.seconds
