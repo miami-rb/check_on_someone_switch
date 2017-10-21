@@ -2,11 +2,11 @@
 
 ## Purpose
 
-During and after a disaster, letting your family and friends know that you are safe and well can bring your loved ones great peace of mind. Reach Out is an SMS-based [dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch) designed to help make that communication easier in case of an emergency.
+During and after a disaster, letting your family and friends know that you are safe and well can bring your loved ones great peace of mind. Check on Someone Switch is an SMS-based [dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch) designed to help make that communication easier in case of an emergency.
 
 ## Usage
 
-Register by texting "START" to [Shortcode]. Maybe Check On Someone Switch will check-in on you every [X] hours - if you don't respond with "OK" within [Y] minutes, Maybe Check On Someone Switch will notify your emergency contacts that you have stopped responding. To unsubscribe from check-ins, text "STOP".
+Register by texting "START" to [Shortcode]. Check on Someone Switch will check-in on you every [X] hours - if you don't respond with "OK" within [Y] minutes, Check on Someone Switch will notify your emergency contacts that you have stopped responding. To unsubscribe from check-ins, text "STOP".
 
 To add an emergency contact, text "ADD [Phone number]". To remove an emergency contact, text "REMOVE [Phone number]".
 
