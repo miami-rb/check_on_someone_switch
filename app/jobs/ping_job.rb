@@ -11,7 +11,7 @@ class PingJob < ApplicationJob
       client.messages.create(
         messaging_service_sid: ENV['TWILIO_MESSAGING_SERVICE_SID'],
         to: contact.number,
-        body: "PLS RESPOND"
+        body: "Got a sec to check-in? Reply OK"
       )
     end
   end
