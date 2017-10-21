@@ -14,7 +14,7 @@ To see a list of available commands, text "HELP".
 
 ## Team
 
-* [Josef Diago](https://github.com/jdiago) - Technical lead - Rails, Twilio, and dev-ops
+* [Josef Diago](https://github.com/jdiago) - Computers - Rails, Twilio, and dev-ops
 * [Bruno Cunha](https://github.com/bruncun) - Project coordinator - UI/UX design and front-end
 
 This project needs a stakeholder representative. Communication is handled through Github.
